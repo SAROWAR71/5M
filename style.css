@@ -1,0 +1,30 @@
+.first{
+	margin:0 auto;
+	background-color:#e9e9e9;
+	width:900px;
+	text-align:center;
+	padding:20px;
+}
+.second{
+	background-color:yellow;
+	text-align:justify;
+	padding:10px;
+}
+.third{
+	text-align:center;
+	clear:both;
+}
+span.past{
+	text-decoration:underline;
+}
+.four{
+	float:left;
+	margin-left:40px;
+}
+.five{
+	float:right;
+	margin-right:40px;
+}
+span.six{
+	text-decoration:underline;
+}
